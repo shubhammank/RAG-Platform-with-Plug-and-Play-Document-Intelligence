@@ -1,0 +1,8 @@
+@startuml
+start
+:Query Agent;
+:Retrieval Agent;
+:Synthesis Agent;
+:Guardrail Agent;
+stop
+@enduml

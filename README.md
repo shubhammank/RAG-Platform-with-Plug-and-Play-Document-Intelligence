@@ -1,1 +1,2 @@
-# RAG-Platform-with-Plug-and-Play-Document-Intelligence
+# DocuRAG Platform (Balanced Compact Version)
+Full multi-layer RAG system.

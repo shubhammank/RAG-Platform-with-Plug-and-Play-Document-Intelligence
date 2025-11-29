@@ -1,0 +1,17 @@
+{
+    "structure": [
+        "api",
+        "src/ingestion",
+        "src/chunking",
+        "src/embeddings",
+        "src/retrieval",
+        "src/rag_core",
+        "src/utils",
+        "src/schemas",
+        "config",
+        "docs",
+        "tests",
+        "notebooks",
+        "samples"
+    ]
+}
